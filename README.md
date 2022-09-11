@@ -13,7 +13,7 @@ There are some other different options but the one described above is the most c
 # Libraries/modules
 
 - PyQt5 - all the functionalities regarding the app - connecting buttons, creating the layout etc.
-- mysql - connecting with the mysql databes
+- mysql - connecting with the mysql database
 - hashlib - for encrypting sensitive data
 - six - for working with certain regular data
 - datetime - used for getting the dates
