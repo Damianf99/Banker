@@ -24,72 +24,72 @@ There are some other different options but the one described above is the most c
 This app is fully functional. You can download this repository and run the Kalkulator_Bankowy.py file. There might be a possibility that you could have some missing modules. After downloading the missing parts you should be able to run the app. I disabled the database and erased some encrypting code due to safety. It should not affect the app itself because you should never encounter the login window. The database within the app is stored locally so you shouldn't have any problems with it. All the data in the database directories are encrypted but since there will be no login into the app - your data on your local device will not be entirely safe. If you don't want to run it on your own device - you can have a little insight of the app with the images below (or in the Screenshots directory).
 
 # Screenshots
-- Adding a client:
+## Adding a client:
 
 ![plot](./Screenshots/Banker_Add_Client.jpg)
 ![plot](./Screenshots/Banker_Add_Client_filled.jpg)
 ![plot](./Screenshots/Banker_Add_Client_save.jpg)
 
-- Menu with archived year loaded:
+## Menu with archived year loaded:
 
 ![plot](./Screenshots/Banker_Choose_Archived_Year.jpg)
 ![plot](./Screenshots/Banker_Archived_Year_Main_Menu.jpg)
 
-- Database of all months:
+## Database of all months:
 
 ![plot](./Screenshots/Banker_Client_All_Months_Database.jpg)
 
-- Client finalization:
+## Client finalization:
 
 ![plot](./Screenshots/Banker_Client_Finalization.jpg)
 ![plot](./Screenshots/Banker_Client_Finalization_Menu.jpg)
 ![plot](./Screenshots/Banker_Client_Month_Database.jpg)
 
-- Commissions:
+## Commissions:
 
 ![plot](./Screenshots/Banker_Commissions.jpg)
 ![plot](./Screenshots/Banker_Commissions_with_new_data.jpg)
 
-- Comparing commissions:
+## Comparing commissions:
 
 ![plot](./Screenshots/Banker_Compare_Client_Commission.jpg)
 ![plot](./Screenshots/Banker_Compare_Commissions.jpg)
 
-- Creating account:
+## Creating account:
 
 ![plot](./Screenshots/Banker_Create_Account.jpg)
 ![plot](./Screenshots/Banker_Create_Account_filled.jpg)
 
-- Creating a new invoice:
+## Creating a new invoice:
 
 ![plot](./Screenshots/Banker_Creating_New_Invoice.jpg)
 ![plot](./Screenshots/Banker_Created_Invoice.jpg)
 
-- Database menu:
+## Database menu:
 
 ![plot](./Screenshots/Banker_Database_Menu.jpg)
 
-- Encrypted data in different files:
+## Encrypted data in different files:
 
 ![plot](./Screenshots/Banker_Encrypted_Data.jpg)
 ![plot](./Screenshots/Banker_Encrypted_Data_2.jpg)
 
-- Initiated clients:
+## Initiated clients:
 
 ![plot](./Screenshots/Banker_Initiated_Clients.jpg)
 
-- Invoices menu:
+## Invoices menu:
 
 ![plot](./Screenshots/Banker_Invoices.jpg)
 ![plot](./Screenshots/Banker_Invoices_Personal_Data.jpg)
 
-- Login:
+## Login:
 
 ![plot](./Screenshots/Banker_Login.jpg)
 ![plot](./Screenshots/Banker_Login_Error.jpg)
 ![plot](./Screenshots/Banker_Login_Success.jpg)
 
-- Main menu:
+## Main menu:
 
 ![plot](./Screenshots/Banker_Main_Menu.jpg)
 ![plot](./Screenshots/Banker_Main_Menu_Settings.jpg)
